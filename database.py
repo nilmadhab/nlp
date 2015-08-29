@@ -19,7 +19,7 @@ soup = BeautifulSoup(content)
 
 #soup.find("div", { "class" : "test" },recursive=False)
 
-divs = soup.find_all("div");
+#divs = soup.find_all("div");
 
 print divs[1].text;
 
