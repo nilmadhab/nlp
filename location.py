@@ -44,22 +44,27 @@ for x in arr:
 	price = ''
 	listing_id = ''
 	found = False
+	found2 = False
 	while(i < len(spans)-1): 
 		#print i,"nil"
 		i+=1;
 
-		stri = spans[i].text
+		stri = spans[i].text.strip()
+
+		if stri.find("Listing ID:") != -1:
+			listing_id = stri;
+        	found2 = 1
+        	#print listing_id,"daad vssd"
+
+
 		#i-=1;
 		if stri.find("$") != -1 and found == False:
 			location = spans[i-1].text;
 			price = spans[i].text;
+			#print spans[i+1].text
 			found = 1;
 
-        if stri.find("Listing ID") != -1:
-        	listing_id = spans[i].text;
-        	g = re.compile('(?<=:)\W*\s*[A-Za-z0-9]+').search(unicode(listing_id)).group(0)
-	        g = re.sub('\W+','',g)
-	        listing_id = g
+        
         
         
 
@@ -81,7 +86,7 @@ for x in arr:
 	location = location[:i_city].strip()
 	street = location#STREET
 
-	#print street,'\n',city,'\n',province,'\n',postcode,'\n',price,'\n',listing_id
+	print street,'\n',city,'\n',province,'\n',postcode,'\n',price,'\n',listing_id
 
 		
 	sql = """INSERT INTO location(document_name,price,listing_id,street_address,city,province,postal_code) 
