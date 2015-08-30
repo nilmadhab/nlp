@@ -1,0 +1,819 @@
+"id","document_name","walk_score","dependence"
+"1","00390948.pdf","0
+","Car-Dependent
+"
+"2","05337591.pdf","0
+","Car-Dependent
+"
+"3","10085286.pdf","0
+","Car-Dependent
+"
+"4","10086107.pdf","0
+","Car-Dependent
+"
+"5","10086622.pdf","0
+","Car-Dependent
+"
+"6","10090774.pdf","68
+","Somewhat Walkable
+"
+"7","10090865.pdf","4
+","Car-Dependent
+"
+"8","10090891.pdf","0
+","Car-Dependent
+"
+"9","10091948.pdf","5
+","Car-Dependent
+"
+"10","10092912.pdf","4
+","Car-Dependent
+"
+"11","10093137.pdf","59
+","Somewhat Walkable
+"
+"12","10094151.pdf","0
+","Car-Dependent
+"
+"13","10094899.pdf","7
+","Car-Dependent
+"
+"14","10095140.pdf","41
+","Car-Dependent
+"
+"15","10097297.pdf","0
+","Car-Dependent
+"
+"16","10099383.pdf","0
+","Car-Dependent
+"
+"17","10099505.pdf","18
+","Car-Dependent
+"
+"18","10099650.pdf","5
+","Car-Dependent
+"
+"19","10099708.pdf","Jane Hoffm","Car-Dependent
+"
+"20","13070000.pdf","0
+","Car-Dependent
+"
+"21","1409195.pdf","3
+","Car-Dependent
+"
+"22","348418.pdf","6
+","Car-Dependent
+"
+"23","348608.pdf","28
+","Car-Dependent
+"
+"24","348906.pdf","0
+","Car-Dependent
+"
+"25","349119.pdf","0
+","Car-Dependent
+"
+"26","349860.pdf","4
+","Car-Dependent
+"
+"27","351454.pdf","2
+","Car-Dependent
+"
+"28","351903.pdf","1
+","Car-Dependent
+"
+"29","353393.pdf","3
+","Car-Dependent
+"
+"30","373787.pdf","7
+","Car-Dependent
+"
+"31","385472.pdf","0
+","Car-Dependent
+"
+"32","392606.pdf","1
+","Car-Dependent
+"
+"33","41257197.pdf","3
+","Car-Dependent
+"
+"34","481960135.pdf","0
+","Car-Dependent
+"
+"35","520940126.pdf","0
+","Car-Dependent
+"
+"36","521930797.pdf","0
+","Car-Dependent
+"
+"37","60088317.pdf","3
+","Car-Dependent
+"
+"38","C3104853.pdf","23
+","Car-Dependent
+"
+"39","C3140671.pdf","36
+","Car-Dependent
+"
+"40","C3153538.pdf","82
+","Very Walkable
+"
+"41","C3174921.pdf","32
+","Car-Dependent
+"
+"42","C3185841.pdf","56
+","Somewhat Walkable
+"
+"43","C3211401.pdf",,
+"44","C3618078.pdf","0
+","Car-Dependent
+"
+"45","C3645887.pdf","0
+","Car-Dependent
+"
+"46","C3646135.pdf","0
+","Car-Dependent
+"
+"47","C3647620.pdf","1
+","Car-Dependent
+"
+"48","C3652657.pdf","0
+","Car-Dependent
+"
+"49","C3652931.pdf","40
+","Car-Dependent
+"
+"50","C3653337.pdf","21
+","Car-Dependent
+"
+"51","C4000662.pdf","10
+","Car-Dependent
+"
+"52","C4000958.pdf","53
+","Somewhat Walkable
+"
+"53","C4001601.pdf","27
+","Car-Dependent
+"
+"54","C4006332.pdf","7
+","Car-Dependent
+"
+"55","C4006483.pdf","49
+","Car-Dependent
+"
+"56","C4006709.pdf","0
+","Car-Dependent
+"
+"57","C4006818.pdf","0
+","Car-Dependent
+"
+"58","C4007280.pdf","63
+","Somewhat Walkable
+"
+"59","C4008847.pdf","0
+","Car-Dependent
+"
+"60","C4011862.pdf","59
+","Somewhat Walkable
+"
+"61","C4012236.pdf","0
+","Car-Dependent
+"
+"62","C4014364.pdf","0
+","Car-Dependent
+"
+"63","E3313697.pdf","0
+","Car-Dependent
+"
+"64","E3366096.pdf","0
+","Car-Dependent
+"
+"65","E3391551.pdf","0
+","Car-Dependent
+"
+"66","E3402091.pdf","0
+","Car-Dependent
+"
+"67","F1418810.pdf","4
+","Car-Dependent
+"
+"68","F1422736.pdf","0
+","Car-Dependent
+"
+"69","F1426476.pdf","7
+","Car-Dependent
+"
+"70","F1428720.pdf","41
+","Car-Dependent
+"
+"71","F1429622.pdf","16
+","Car-Dependent
+"
+"72","F1430137.pdf","1
+","Car-Dependent
+"
+"73","F1430272.pdf","19
+","Car-Dependent
+"
+"74","F1433307.pdf","18
+","Car-Dependent
+"
+"75","F1433545.pdf","2
+","Car-Dependent
+"
+"76","F1433697.pdf","0
+","Car-Dependent
+"
+"77","F1434302.pdf","40
+","Car-Dependent
+"
+"78","F1436762.pdf","10
+","Car-Dependent
+"
+"79","F1437417.pdf","60
+","Somewhat Walkable
+"
+"80","F1439155.pdf","12
+","Car-Dependent
+"
+"81","F1439706.pdf","1
+","Car-Dependent
+"
+"82","F1439755.pdf","4
+","Car-Dependent
+"
+"83","F1439887.pdf","42
+","Car-Dependent
+"
+"84","F1439898.pdf","10
+","Car-Dependent
+"
+"85","F1440036.pdf","11
+","Car-Dependent
+"
+"86","F1440272.pdf","3
+","Car-Dependent
+"
+"87","F1440892.pdf","11
+","Car-Dependent
+"
+"88","F1441174.pdf","40
+","Car-Dependent
+"
+"89","F1442790.pdf","27
+","Car-Dependent
+"
+"90","H3140708.pdf",,
+"91","N3078731.pdf",,
+"92","N3130306.pdf","0
+","Car-Dependent
+"
+"93","N3139956.pdf","25
+","Car-Dependent
+"
+"94","N3162073.pdf","36
+","Car-Dependent
+"
+"95","N3171343.pdf","29
+","Car-Dependent
+"
+"96","N3173212.pdf","37
+","Car-Dependent
+"
+"97","N3183480.pdf","6
+","Car-Dependent
+"
+"98","N3202699.pdf","0
+","Car-Dependent
+"
+"99","N3203701.pdf","20
+","Car-Dependent
+"
+"100","N3211853.pdf","12
+","Car-Dependent
+"
+"101","N3214580.pdf","0
+","Car-Dependent
+"
+"102","QR21406417.pdf","10
+","Car-Dependent
+"
+"103","SJ152241.pdf","19
+","Car-Dependent
+"
+"104","V1023291.pdf","12
+","Car-Dependent
+"
+"105","V1041596.pdf","6
+","Car-Dependent
+"
+"106","V1057605.pdf","13
+","Car-Dependent
+"
+"107","V1066359.pdf","51
+","Somewhat Walkable
+"
+"108","V1067018.pdf","66
+","Somewhat Walkable
+"
+"109","V1069495.pdf","12
+","Car-Dependent
+"
+"110","V1072991.pdf","70
+","Very Walkable
+"
+"111","V1076667.pdf","2
+","Car-Dependent
+"
+"112","V1077012.pdf","0
+","Car-Dependent
+"
+"113","V1078325.pdf","49
+","Car-Dependent
+"
+"114","V1080274.pdf","20
+","Car-Dependent
+"
+"115","V1080575.pdf","8
+","Car-Dependent
+"
+"116","V1081878.pdf","89
+","Very Walkable
+"
+"117","V1082668.pdf","55
+","Somewhat Walkable
+"
+"118","V1084554.pdf","15
+","Car-Dependent
+"
+"119","V1086138.pdf","3
+","Car-Dependent
+"
+"120","V1086595.pdf","45
+","Car-Dependent
+"
+"121","V1088335.pdf","1
+","Car-Dependent
+"
+"122","V1088985.pdf","78
+","Very Walkable
+"
+"123","V1092694.pdf","1
+","Car-Dependent
+"
+"124","V1095804.pdf","18
+","Car-Dependent
+"
+"125","V1095995.pdf","2
+","Car-Dependent
+"
+"126","V1096160.pdf","0
+","Car-Dependent
+"
+"127","V1096647.pdf","0
+","Car-Dependent
+"
+"128","V1097187.pdf","78
+","Very Walkable
+"
+"129","V1097237.pdf","1
+","Car-Dependent
+"
+"130","V1097285.pdf","67
+","Somewhat Walkable
+"
+"131","V1097312.pdf","1
+","Car-Dependent
+"
+"132","V1097513.pdf","83
+","Very Walkable
+"
+"133","V1097673.pdf","6
+","Car-Dependent
+"
+"134","V1097961.pdf","42
+","Car-Dependent
+"
+"135","V1099142.pdf","3
+","Car-Dependent
+"
+"136","V1099185.pdf","57
+","Somewhat Walkable
+"
+"137","V1099419.pdf","66
+","Somewhat Walkable
+"
+"138","V1100978.pdf","51
+","Somewhat Walkable
+"
+"139","V1101014.pdf","3
+","Car-Dependent
+"
+"140","V1101209.pdf","8
+","Car-Dependent
+"
+"141","V1101775.pdf","74
+","Very Walkable
+"
+"142","V1102277.pdf","90
+","Very Walkable
+"
+"143","V1102318.pdf","6
+","Car-Dependent
+"
+"144","V1102480.pdf","83
+","Very Walkable
+"
+"145","V1102548.pdf","57
+","Somewhat Walkable
+"
+"146","V1103145.pdf","41
+","Car-Dependent
+"
+"147","V1103234.pdf","62
+","Somewhat Walkable
+"
+"148","V1103720.pdf","2
+","Car-Dependent
+"
+"149","V1104242.pdf","57
+","Somewhat Walkable
+"
+"150","V1104283.pdf","71
+","Very Walkable
+"
+"151","V1104287.pdf","35
+","Car-Dependent
+"
+"152","V1104291.pdf","35
+","Car-Dependent
+"
+"153","V1104865.pdf","6
+","Car-Dependent
+"
+"154","V1105177.pdf","4
+","Car-Dependent
+"
+"155","V1105289.pdf","33
+","Car-Dependent
+"
+"156","V1105996.pdf","44
+","Car-Dependent
+"
+"157","V1106471.pdf","80
+","Very Walkable
+"
+"158","V1106553.pdf","68
+","Somewhat Walkable
+"
+"159","V1106593.pdf","44
+","Car-Dependent
+"
+"160","V1106596.pdf","65
+","Somewhat Walkable
+"
+"161","V1107111.pdf","53
+","Somewhat Walkable
+"
+"162","V1107713.pdf","48
+","Car-Dependent
+"
+"163","V1108240.pdf","66
+","Somewhat Walkable
+"
+"164","V1108381.pdf","79
+","Very Walkable
+"
+"165","V1109592.pdf","73
+","Very Walkable
+"
+"166","V1109972.pdf","7
+","Car-Dependent
+"
+"167","V1111101.pdf","0
+","Car-Dependent
+"
+"168","V1111616.pdf","53
+","Somewhat Walkable
+"
+"169","V1111985.pdf","80
+","Very Walkable
+"
+"170","V1112094.pdf","64
+","Somewhat Walkable
+"
+"171","V1113428.pdf","43
+","Car-Dependent
+"
+"172","V1113467.pdf","85
+","Very Walkable
+"
+"173","V1113765.pdf","3
+","Car-Dependent
+"
+"174","V1114153.pdf","75
+","Very Walkable
+"
+"175","V1114525.pdf","44
+","Car-Dependent
+"
+"176","V1114539.pdf","78
+","Very Walkable
+"
+"177","V1114732.pdf","49
+","Car-Dependent
+"
+"178","V1114898.pdf","67
+","Somewhat Walkable
+"
+"179","V1114934.pdf","67
+","Somewhat Walkable
+"
+"180","V1115083.pdf","44
+","Car-Dependent
+"
+"181","V1115392.pdf","0
+","Car-Dependent
+"
+"182","V1115508.pdf","78
+","Very Walkable
+"
+"183","V1115519.pdf","82
+","Very Walkable
+"
+"184","V1115900.pdf","2
+","Car-Dependent
+"
+"185","V1115935.pdf","83
+","Very Walkable
+"
+"186","V1116019.pdf","1
+","Car-Dependent
+"
+"187","V1116023.pdf","51
+","Somewhat Walkable
+"
+"188","V1116097.pdf","77
+","Very Walkable
+"
+"189","V1116333.pdf","69
+","Somewhat Walkable
+"
+"190","V1116606.pdf","2
+","Car-Dependent
+"
+"191","V1117056.pdf","4
+","Car-Dependent
+"
+"192","V1117149.pdf","37
+","Car-Dependent
+"
+"193","V1117166.pdf","10
+","Car-Dependent
+"
+"194","V1117454.pdf","24
+","Car-Dependent
+"
+"195","V1117508.pdf","55
+","Somewhat Walkable
+"
+"196","V1117553.pdf","61
+","Somewhat Walkable
+"
+"197","V1117596.pdf","4
+","Car-Dependent
+"
+"198","V1117600.pdf","77
+","Very Walkable
+"
+"199","V1117770.pdf","51
+","Somewhat Walkable
+"
+"200","V1117956.pdf","45
+","Car-Dependent
+"
+"201","V1117985.pdf","62
+","Somewhat Walkable
+"
+"202","V1118040.pdf","65
+","Somewhat Walkable
+"
+"203","V1118241.pdf","71
+","Very Walkable
+"
+"204","V1118264.pdf","77
+","Very Walkable
+"
+"205","V1118376.pdf","0
+","Car-Dependent
+"
+"206","V1118949.pdf","68
+","Somewhat Walkable
+"
+"207","V1119009.pdf","3
+","Car-Dependent
+"
+"208","V1119028.pdf","0
+","Car-Dependent
+"
+"209","V1119114.pdf","69
+","Somewhat Walkable
+"
+"210","V1119118.pdf","9
+","Car-Dependent
+"
+"211","V1119133.pdf","19
+","Car-Dependent
+"
+"212","V1119135.pdf","86
+","Very Walkable
+"
+"213","V1119430.pdf","44
+","Car-Dependent
+"
+"214","V1119498.pdf","9
+","Car-Dependent
+"
+"215","V1119523.pdf","55
+","Somewhat Walkable
+"
+"216","V1119997.pdf","45
+","Car-Dependent
+"
+"217","V1120416.pdf","11
+","Car-Dependent
+"
+"218","V1120593.pdf","80
+","Very Walkable
+"
+"219","V1120680.pdf","8
+","Car-Dependent
+"
+"220","V1120698.pdf","46
+","Car-Dependent
+"
+"221","V1120732.pdf","78
+","Very Walkable
+"
+"222","V1120838.pdf","82
+","Very Walkable
+"
+"223","V1120987.pdf","0
+","Car-Dependent
+"
+"224","V1121006.pdf","13
+","Car-Dependent
+"
+"225","V1121372.pdf","7
+","Car-Dependent
+"
+"226","V1121393.pdf","83
+","Very Walkable
+"
+"227","V1121465.pdf","4
+","Car-Dependent
+"
+"228","V1121557.pdf","57
+","Somewhat Walkable
+"
+"229","V1121558.pdf","83
+","Very Walkable
+"
+"230","V1121707.pdf","20
+","Car-Dependent
+"
+"231","V1121800.pdf","57
+","Somewhat Walkable
+"
+"232","V1121981.pdf","47
+","Car-Dependent
+"
+"233","V1122020.pdf","85
+","Very Walkable
+"
+"234","V1122200.pdf","6
+","Car-Dependent
+"
+"235","V1122293.pdf","20
+","Car-Dependent
+"
+"236","V1122559.pdf","7
+","Car-Dependent
+"
+"237","V1122664.pdf","76
+","Very Walkable
+"
+"238","V1122760.pdf","65
+","Somewhat Walkable
+"
+"239","V1122834.pdf","72
+","Very Walkable
+"
+"240","V1123093.pdf","53
+","Somewhat Walkable
+"
+"241","V1123105.pdf","35
+","Car-Dependent
+"
+"242","V1123148.pdf","42
+","Car-Dependent
+"
+"243","V1123287.pdf","18
+","Car-Dependent
+"
+"244","V1123295.pdf","8
+","Car-Dependent
+"
+"245","V1123301.pdf","6
+","Car-Dependent
+"
+"246","V1123498.pdf","75
+","Very Walkable
+"
+"247","V1123500.pdf","43
+","Car-Dependent
+"
+"248","V1123523.pdf","65
+","Somewhat Walkable
+"
+"249","V1123680.pdf","5
+","Car-Dependent
+"
+"250","V1123741.pdf","43
+","Car-Dependent
+"
+"251","V1123831.pdf","67
+","Somewhat Walkable
+"
+"252","V1123902.pdf","68
+","Somewhat Walkable
+"
+"253","V1124015.pdf","49
+","Car-Dependent
+"
+"254","V1124059.pdf","23
+","Car-Dependent
+"
+"255","V1124248.pdf","69
+","Somewhat Walkable
+"
+"256","V1124278.pdf","69
+","Somewhat Walkable
+"
+"257","V1124383.pdf","89
+","Very Walkable
+"
+"258","V1124747.pdf","49
+","Car-Dependent
+"
+"259","V1124792.pdf","56
+","Somewhat Walkable
+"
+"260","V1124814.pdf","55
+","Somewhat Walkable
+"
+"261","V1125023.pdf","5
+","Car-Dependent
+"
+"262","V1125072.pdf","26
+","Car-Dependent
+"
+"263","V1125447.pdf","52
+","Somewhat Walkable
+"
+"264","V1125602.pdf","30
+","Car-Dependent
+"
+"265","V1125746.pdf","4
+","Car-Dependent
+"
+"266","V1125756.pdf","83
+","Very Walkable
+"
+"267","V1125832.pdf","9
+","Car-Dependent
+"
+"268","V1125886.pdf","73
+","Very Walkable
+"
+"269","V906290.pdf","1
+","Car-Dependent
+"
+"270","V981606.pdf","59
+","Somewhat Walkable
+"
+"271","W2946072.pdf","10
+","Car-Dependent
+"
+"272","W3093246.pdf","4
+","Car-Dependent
+"
+"273","W3124013.pdf","41
+","Car-Dependent
+"
+"274","W3199234.pdf","32
+","Car-Dependent
+"
+"275","W3209997.pdf","5
+","Car-Dependent
+"

@@ -1,6 +1,8 @@
 arr = []
 import MySQLdb
 
+exception = ['11758','131776','152912','155317','342920']
+
 db = MySQLdb.connect("localhost","root","25011994","nlp" )
 
 # prepare a cursor object using cursor() method
@@ -24,6 +26,8 @@ for row in data :
 print arr
 
 for x in arr:
+	if  x in exception:
+		continue
 	document = x+".html"
 	url = "file:///home/nilmadhab/Desktop/nlp_project/pdfminer/output/"+document
 
@@ -36,21 +40,23 @@ for x in arr:
 	#print divs[1].text;
 
 	spans = soup.find_all("span");
-	document_name = document+".pdf"
+	document_name = x+".pdf"
 	walk_score = ''
+	dependence = ''
 	i = 0;
 	found = False
 	while(i < len(spans) ):
 		stri = spans[i].text
 		if stri.find("Walk Score") != -1:
+			dependence = spans[i+1].text
 			walk_score = spans[i+2].text
 		
 
 		i += 1
 
 	# Prepare SQL query to INSERT a record into the database.
-	sql = """INSERT INTO `property_score`(`document_name`, `walk_score`) 
-	                             VALUES ('"""+document_name+"""','"""+walk_score+"""')"""
+	sql = """INSERT INTO `property_score`(`document_name`, `walk_score`, `dependence`) 
+	                             VALUES ('"""+document_name+"""','"""+walk_score+"""','"""+dependence+"""')"""
 	
 	try:
 	   # Execute the SQL command
