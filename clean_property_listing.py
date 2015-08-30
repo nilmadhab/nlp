@@ -28,9 +28,10 @@ for row in data :
 	building_type = row[3]
 	storeys = row[4]
 	title = row[5]
-	community_name = row[6] 
-	land_size_length = row[7] 
+	community_name = row[6]
 	parking_type = row[11]
+	land_size_length = row[7]
+	land_size_width = ''
 
 	document_name = document_name.replace(".html",'')
 	proprty_type = proprty_type.replace("Property Type",'').strip(' \t\n\r')
@@ -40,12 +41,15 @@ for row in data :
 	storeys = storeys.replace("Storeys",'').strip(' \t\n\r')
 	parking_type = parking_type.replace("Parking Type",'').strip(' \t\n\r')
 	land_size_length = land_size_length.replace("Land Size",'').strip(' \t\n\r')
+	#if land_size_length.find("*") != -1:
+	#	land_size_length = land_size_length.split('*')[0].strip()
+	#	land_size_width = land_size_length.split('*')[1].strip()
 	#print row_id,proprty_type
 	sql =  " UPDATE `property_listing` SET `property_type`='"+ proprty_type + "'\
 	,`building_type`='"+ building_type + "',`document_name`='"+ document_name + "',`storeys`='"+ storeys + "' \
-	 ,`title`='"+ title + "',`parking_type`='"+ parking_type + "' \
-	 ,`land_size_length`='"+ land_size_length + "',`community_name`='"+ community_name + "'  WHERE id = "+ str(row_id)+" "
-	print sql
+	,`title`='"+ title + "',`parking_type`='"+ parking_type + "',`land_size_length`='"+ land_size_length + "'\
+	,`community_name`='"+ community_name + "'  WHERE id = "+ str(row_id)+" "
+	
 	try:
 	   # Execute the SQL command
 	   cursor.execute(sql)
