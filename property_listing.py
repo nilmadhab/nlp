@@ -55,8 +55,8 @@ for x in arr:
 	i = 0;
 	found = False
 	while(i < len(spans) ):
-		print i
-		print spans[i].text
+		#print i
+		#print spans[i].text
 		stri = spans[i].text
 		if stri.find("Property Type") != -1:
 			property_type = stri
